@@ -1,0 +1,5 @@
+firstname = input("¿Cuales son tus nombres?")
+lastname = input("¿Cuales son tus apellidos?")
+seccion = input("¿Cual es tu codigo de seccion")
+sede = input("¿En que sede te encuentras?")
+print("HOLA Y BIENVENIDO A DUOCUC\n" + firstname, lastname,"\n" "Seccion: " + seccion, "\n" "Sede: " + sede)
